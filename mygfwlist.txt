@@ -8,6 +8,7 @@ suannai.ga
 python-requests.org
 xvideos.com
 xvideos-cdn.com
+avgle.com
 @@smzdm.com
 @@umeng.com
 @@zdmimg.com
