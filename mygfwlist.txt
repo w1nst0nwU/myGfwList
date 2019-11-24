@@ -7,6 +7,7 @@ exosrv.com
 suannai.ga
 python-requests.org
 xvideos.com
+xvideos-cdn.com
 @@smzdm.com
 @@umeng.com
 @@zdmimg.com
