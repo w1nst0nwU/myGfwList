@@ -9,6 +9,7 @@ python-requests.org
 xvideos.com
 xvideos-cdn.com
 avgle.com
+documentation.nokia.com
 @@smzdm.com
 @@umeng.com
 @@zdmimg.com
