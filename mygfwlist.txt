@@ -16,3 +16,5 @@ documentation.nokia.com
 @@app-measurement.com
 @@doubleclick.net
 @@umtrack.com
+@@ntp1.aliyun.com
+sample.mgstage.com
