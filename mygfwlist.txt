@@ -18,3 +18,4 @@ documentation.nokia.com
 @@umtrack.com
 @@ntp1.aliyun.com
 sample.mgstage.com
+@@github.com
