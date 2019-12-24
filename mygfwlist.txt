@@ -21,3 +21,4 @@ sample.mgstage.com
 @@github.com
 rekey.letskuso.com
 @@apple.com
+v2ex.com
