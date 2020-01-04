@@ -20,6 +20,6 @@ documentation.nokia.com
 sample.mgstage.com
 @@github.com
 rekey.letskuso.com
-@@apple.com
+@@apple
 v2ex.com
-51ym.me
+
