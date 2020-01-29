@@ -24,3 +24,4 @@ rekey.letskuso.com
 v2ex.com
 wikipedia.org
 amazon.co.jp
+@@yusen-logistics.com
