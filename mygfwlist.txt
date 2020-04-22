@@ -28,3 +28,5 @@ amazon.co.jp
 @@griffin.hk.yusen-logistics.comk
 vandyke.com
 kccdk.com
+github.com
+gstatic.com
