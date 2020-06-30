@@ -30,3 +30,4 @@ vandyke.com
 kccdk.com
 github.com
 gstatic.com
+freenom.com
