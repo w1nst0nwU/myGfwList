@@ -31,3 +31,4 @@ kccdk.com
 github.com
 gstatic.com
 freenom.com
+eve.gameloft.com
