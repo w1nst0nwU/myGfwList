@@ -35,3 +35,4 @@ eve.gameloft.com
 googlesyndication.com
 ytimg.com
 googlevideo.com
+gstatic.com
