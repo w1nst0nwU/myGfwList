@@ -36,3 +36,6 @@ googlesyndication.com
 ytimg.com
 googlevideo.com
 gstatic.com
+googleusercontent.com
+sinaimg.cn
+githubassets.com
