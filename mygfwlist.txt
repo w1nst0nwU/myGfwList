@@ -39,3 +39,4 @@ gstatic.com
 googleusercontent.com
 sinaimg.cn
 githubassets.com
+jquery.com
